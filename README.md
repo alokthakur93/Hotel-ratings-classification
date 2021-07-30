@@ -27,14 +27,14 @@ A sample dataset which consists of 20,000 reviews and ratings for different hote
 
 ## Project Architecture / Flow
 
-![Project workflow](https://github.com/alokthakur93/Hotel-ratings-classification/blob/main/images/workflow.png)
+![Project workflow](https://raw.githubusercontent.com/alokthakur93/Hotel-ratings-classification/main/images/workflow.png)
 
 ## Dataset Details:
 
 * Dataset was provided by creating in-house competition group in Kaggle.
 * Dataset was pre-splitted into [Train](https://github.com/alokthakur93/Hotel-ratings-classification/blob/main/train.csv) and [Test](https://github.com/alokthakur93/Hotel-ratings-classification/blob/main/test.csv) data.
 
-![dataset details](https://github.com/alokthakur93/Hotel-ratings-classification/blob/main/images/datset_details.png)
+![dataset details](https://raw.githubusercontent.com/alokthakur93/Hotel-ratings-classification/main/images/datset_details.png)
 
 ## Exploratory Data Analysis (EDA):
 
@@ -69,7 +69,7 @@ Following text pre-processing steps were included:
 * Used various model with changed attributes and parameters like Multinomial logistic regression, SVM, KNN, Naive Bayes, Neural Network, Decision Tree, Random Forest.
 * Handled imbalanced dataset using SMOTE but results were poor, 3 level rating gave more satisfied results than 5 level of ratings.
 
-![model details](https://github.com/alokthakur93/Hotel-ratings-classification/blob/main/images/model_de.png)
+![model details](https://raw.githubusercontent.com/alokthakur93/Hotel-ratings-classification/main/images/model_de.png)
 
 ## Model Evaluation
 
@@ -79,7 +79,7 @@ Following text pre-processing steps were included:
 
 * Test dataset was similarily processed and done predictions which were submitted in Kaggle. 
 
-![model evaluation](https://github.com/alokthakur93/Hotel-ratings-classification/blob/main/images/model.png)
+![model evaluation](https://raw.githubusercontent.com/alokthakur93/Hotel-ratings-classification/main/images/model.png)
 
 ## Challenges Faced:
 
