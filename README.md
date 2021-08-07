@@ -16,6 +16,9 @@
 
 ## Deployment Link: https://hotel--rating-prediction.herokuapp.com/
 
+## Demo : 
+![GIF](https://raw.githubusercontent.com/alokthakur93/Hotel-ratings-classification/main/screen-capture.gif)
+
 ## Code and Resources Used 
 **Python Version:** 3.7  
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, nltk, spacy, gensim, wordcloud, flask, pickle  
